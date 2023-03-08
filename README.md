@@ -7,7 +7,7 @@ Hello and Welcome to this amazing Text Editor! The app is a single-page applicat
 [Step-1](#step-1)<br/>
 [Step-2](#step-2)<br/>
 [Step-3](#step-3)<br/>
-[Built With](#built-with)
+[Built With](#built-with) <br/>
 [Deployed Link](#Deployed-Link) <br/>
 
 

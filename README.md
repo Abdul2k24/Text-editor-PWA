@@ -8,6 +8,7 @@ Hello and Welcome to this amazing Text Editor! The app is a single-page applicat
 [Step-2](#step-2)<br/>
 [Step-3](#step-3)<br/>
 [Built With](#built-with)
+[Deployed Link](#Deployed-Link) <br/>
 
 
 ## Usage
@@ -42,3 +43,6 @@ Next your computer will run and start listening. This process may take a few sec
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
 * [NodeJS](https://nodejs.org/en/)
 * [ExpressJS](https://expressjs.com/)
+
+## Deployed Link
+https://text-editor-pwa-23.herokuapp.com/
